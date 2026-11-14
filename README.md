@@ -1,11 +1,13 @@
 # Palette Lab
 
-Веб-приложение для генерации гармоничных цветовых палитр с современным минималистичным интерфейсом и анимированным градиентным фоном.
+> 🌐 **Language:** **English** | [Русский (README_Ru.md)](README_Ru.md)
 
-## ✨ Возможности
-- 🎨 **Генерация палитр в один клик** — создание свежих цветовых сочетаний с отображением HEX-кодов.
-- 📋 **Быстрое копирование цветов** — копирование выбранного HEX-кода по клику на карточку цвета.
-- ✨ **Glassmorphism UI** — плавные анимации и парящие градиентные сферы на фоне.
+An interactive web utility for generating harmonious color palettes with a clean minimalist interface and animated gradient backgrounds.
 
-## 🚀 Запуск
-Откройте `index.html` в браузере.
+## ✨ Features
+- 🎨 **One-Click Palette Generation** — creates fresh color combinations with instant HEX code labels.
+- 📋 **Quick HEX Copy** — click any color swatch card to copy its HEX code to the clipboard.
+- ✨ **Glassmorphism UI** — smooth transitions and floating gradient orbs in the background.
+
+## 🚀 Usage
+Open `index.html` in any modern web browser.

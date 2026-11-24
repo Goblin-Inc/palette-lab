@@ -11,3 +11,6 @@ An interactive web utility for generating harmonious color palettes with a clean
 
 ## 🚀 Usage
 Open `index.html` in any modern web browser.
+
+## 📄 License
+MIT © [Goblin-Inc](https://github.com/Goblin-Inc)
